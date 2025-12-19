@@ -15,7 +15,10 @@
 5、在本地使用git bash进入对应的命令行
 
 ```git
+#1、初始化
 git init
+#2、设置local用户名+email
+#3、克隆仓库在本地
 git clone https://github.com/xdxghy/xdx0119_notes.git
 #执行完会让你登录github，登陆下就可以
 ```
@@ -28,7 +31,7 @@ git clone https://github.com/xdxghy/xdx0119_notes.git
 
 7、打开文件夹，到仓库，创建.gitignore，写入
 
-```git
+```bash
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 ```
@@ -52,7 +55,6 @@ git clone https://github.com/xdxghy/xdx0119_notes.git
 每次打开obsidian，就会下载github的数据，保持最新
 
 停止编辑1分钟后，就会自动上传
-
 
 
 
