@@ -20,10 +20,15 @@ busybox ps
 type busybox ||curl -o /usr/bin/busybox https://busybox.net/downloads/binaries/1.21.1/busybox-x86_64;chmod +x /usr/bin/busybox 
 ```
 
-使用
+## 2、docker
 
 ```bash
-busybox top
-busybox ps
+sudo docker run -it --rm --privileged --pid=host busybox
+```
+
+这个命令将会在docker中运行一个busybox的容器，并且通过--privileged选项和--pid=host选项获取宿主机的资源。
+
+```bash
+top
 ```
 
