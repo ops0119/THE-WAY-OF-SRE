@@ -3,6 +3,7 @@
 1、获取api-key
 
 https://makersuite.google.com/app/apikey
+
 2、在obsidian种安装**copilot**插件
 
 ![image-20251218214316570](assets/image-20251218212557461.png)

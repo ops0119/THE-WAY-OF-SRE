@@ -41,7 +41,7 @@ bash install.sh
 
 
 
-## 2、安装模型
+## 2、模型安装模型
 
 ### 2.1、查询支持下载的大模型
 
@@ -56,7 +56,7 @@ ollama list
 ### 2.2、下载运行模型
 
 ```bash
-
+ollama run xxxx
 ```
 
 ## 3、chatbox
