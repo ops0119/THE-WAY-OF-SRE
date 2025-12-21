@@ -63,3 +63,12 @@ Windows版本的python安装包是一个exe文件，下载完成后，打开运�
 ![在这里插入图片描述](assets/82eaf24e8cee4c5184b3dc513b53e557.png)  
 点击“确定”，保存设置即可。  
 补充完成了环境变量设置后，可以参照第三章节，验证是否配置成功。
+
+## 五、pip配置国内源
+
+```cmd
+pip config list
+pip config debug
+pip3 config set global.index-url https://mirrors.aliyun.com/pypi/simple/
+```
+
