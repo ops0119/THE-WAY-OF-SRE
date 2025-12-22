@@ -43,3 +43,11 @@ net start mysql
 
 ```
 
+```sql
+mysql -uroot -p
+
+
+alter user root@"localhost" identified by "new_password";
+
+```
+
