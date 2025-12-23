@@ -26,7 +26,8 @@ ps:如果浏览器提示链接不安全，点高级，然后继续访问
 在以下GitHub链接下载，这里第二台电脑也是Windows，就下载Windows版的了
 
 ```
-https://github.com/moonlight-stream/moonlight-qt/releases
+电脑：https://github.com/moonlight-stream/moonlight-qt/releases
+安卓电视：https://github.com/moonlight-stream/moonlight-android/releases
 ```
 
 ![在这里插入图片描述](assets/3104ec19e5eb434c9eede07eb2555219.png)  
