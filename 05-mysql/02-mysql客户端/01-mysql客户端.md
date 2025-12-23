@@ -15,7 +15,7 @@ https://www.heidisql.com
 
 
 ## 04-navicat
-https://www.navicat.com.cn/
+https://www.navicat.com.cn/products#navicat
 
 https://www.navicat.com/en/
 
