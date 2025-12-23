@@ -1,8 +1,9 @@
  
 
-主机是sunshine，客机是moonlight，一个太阳一个月光，两者真是太配啦！
+服务端是sunshine，客户端是moonlight，一个太阳一个月光
 
-**下载sunshine**  
+## 1、下载sunshine
+
 sunshine是服务器端，去以下GitHub链接下载windows端的解压缩即用版
 
 ```
@@ -19,7 +20,9 @@ ps:如果浏览器提示链接不安全，点高级，然后继续访问
 ![在这里插入图片描述](assets/1d0e82f993c640978abd0365181f5b41.png)  
 在以上界面password中输入密码和confirm password中输入确认密码，比如都填123，然后等待页面自动跳转到以下页面  
 ![在这里插入图片描述](assets/71a0ddcb49664ccb8235ef452b72303b.png)  
-**客户机下载moonlight**  
+
+## 2、客户机下载moonlight
+
 在以下GitHub链接下载，这里第二台电脑也是Windows，就下载Windows版的了
 
 ```
@@ -51,7 +54,9 @@ https://github.com/moonlight-stream/moonlight-qt/releases
 ![在这里插入图片描述](assets/cbe5c92e6a9d4ad587bda9a4fe936109.png)  
 然后自动连接，实现以下局域网投屏的效果  
 ![在这里插入图片描述](assets/69adf90f84ef4f159c9b9a8cc59c21d6.png)  
-**其他项**  
+
+## 3、其他项 
+
 调节投屏的清晰度点击这里进行调节测试  
 ![在这里插入图片描述](assets/96e2fffaf9714fe09021d799281a7cd4.png)
 
