@@ -19,7 +19,7 @@ FastGithub是一款Github加速神器，解决github打不开、用户头像无�
 
 首次打开，需要安装`CA根证书`，点击`去安装`，然后按提示一步步操作去完成安装
 
-![img](https://deepmind.t-salon.cc/storage/uploads/mx-wc/default/2025-07-10-1752124698/assets/1cc4f1dd65874392a8dd437ed222117e.png)
+![img](assets/1cc4f1dd65874392a8dd437ed222117e.png)
 
 证书安装完成，即可愉快的[访问 Github](https://so.csdn.net/so/search?q=访问 Github&spm=1001.2101.3001.7020) 了。另外，还支持`npm`、`git`、`pip`加速。
 
@@ -72,19 +72,19 @@ _官网下载也是引导到其他渠道进行下载，不过官网下载有个�
 
 Github Clone 下的 HTTPS、SSH、Download ZIP 这些下载地方多了一些加速下载入口
 
-![img](https://deepmind.t-salon.cc/storage/uploads/mx-wc/default/2025-07-10-1752124698/assets/d976807230d3d7e26f669b623de376b0.png)
+![img](assets/d976807230d3d7e26f669b623de376b0.png)
 
 在Releases的下载位置处，页多了一些加速下载入口
 
-![img](https://deepmind.t-salon.cc/storage/uploads/mx-wc/default/2025-07-10-1752124698/assets/be15f28cb5dadfaf4ae19ee95d8ecb6e.png)
+![img](assets/be15f28cb5dadfaf4ae19ee95d8ecb6e.png)
 
 另外，还支持源码单文件下载，鼠标放到文件名左侧的图标，显示☁图标及提示信息，通过【Alt+鼠标左键】或者【鼠标右键+另存为…】来下载文件。
 
-![img](https://deepmind.t-salon.cc/storage/uploads/mx-wc/default/2025-07-10-1752124698/assets/dc75858cb10d5a378ce7f7b718274c25.png)
+![img](assets/dc75858cb10d5a378ce7f7b718274c25.png)
 
 可以在【工具栏】-【篡改猴】-【Github 增强 - 高速下载】的菜单列表中，点击【XXX加速源-点击切换】来切换单文件下载的加速源，也可以点击【项目列表单文件快捷下载】关闭单文件下载加速功能。
 
-![img](https://deepmind.t-salon.cc/storage/uploads/mx-wc/default/2025-07-10-1752124698/assets/bf3aad42b9170a3d720a21f18472ce45.png)
+![img](assets/bf3aad42b9170a3d720a21f18472ce45.png)
 
 **使用美国的加速源，使用前 100~200kb/s，使用美国加速源后，4~5MB/s（注意不一定所有的加速源都快，有的可能更慢或干脆不可用）**
 
