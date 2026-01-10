@@ -49,7 +49,7 @@
 git init
 #2、配置local级别的用户信息，默认保存的是global的，去除global的关键词
 git config  user.name "Neil"
-git config user.email "9853578+xdxghy@user.noreply.gitee.com"
+git config user.email "98522578+xdxghy@user.noreply.gitee.com"
 #3、把gitee仓库clone到本地
 git clone https://gitee.com/xdxghy/test001.git
 ```
